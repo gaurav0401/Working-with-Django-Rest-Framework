@@ -14,6 +14,12 @@
 
 
 ## Step by step guide:
-- 
+- Add 'rest_framework'  in installed apps of settings.py
+- Create a new app using 'django-admin startapp app1' and then that app in installed apps of settings.py.
+- Create a new Model in models.py and add fields as your needs.
+- Now create a new file named serializers.py in app folder and import your model here.
+- create a serializer in serializers.py using  Meta data of model :
+             -
+             -
 
    
