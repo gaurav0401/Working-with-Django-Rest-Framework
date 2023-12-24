@@ -18,7 +18,7 @@
 - Create a new app using 'django-admin startapp app1' and then that app in installed apps of settings.py.
 - Create a new Model in models.py and add fields as your needs.
 - Now create a new file named serializers.py in app folder and import your model here.
-- create a serializer in serializers.py using  Meta data of model:
+- create a serializer in serializers.py using  Meta data of model
  ![image](https://github.com/gaurav0401/Working-with-Django-Rest-Framework/assets/80095859/2b75fc68-1e75-4f0b-9c95-71e123abd727)
 
 - Now import both model and serializer in views.py and create viewset of model:
