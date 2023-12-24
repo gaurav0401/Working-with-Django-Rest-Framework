@@ -19,8 +19,7 @@
 - Create a new Model in models.py and add fields as your needs.
 - Now create a new file named serializers.py in app folder and import your model here.
 - create a serializer in serializers.py using  Meta data of model:
-
-![image](https://github.com/gaurav0401/Working-with-Django-Rest-Framework/assets/80095859/2b75fc68-1e75-4f0b-9c95-71e123abd727)
+- ![image](https://github.com/gaurav0401/Working-with-Django-Rest-Framework/assets/80095859/2b75fc68-1e75-4f0b-9c95-71e123abd727)
 
 - Now import both model and serializer in views.py and create viewset of model:
              ![image](https://github.com/gaurav0401/Working-with-Django-Rest-Framework/assets/80095859/ebc982a2-60e3-4e4d-b5d9-55ac2786e6e9)
